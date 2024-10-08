@@ -107,7 +107,7 @@ body {
     border-top-right-radius: 8px;
 }
 
-video{
+.video-container {
     width: 50%;
 }
 

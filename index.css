@@ -106,6 +106,10 @@ body {
 .schedule-table th:last-child {
     border-top-right-radius: 8px;
 }
+.report-link {
+    display: block;
+    margin: 20px auto;
+}
 
 .video-container {
     width: 50%;
